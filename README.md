@@ -1,2 +1,2 @@
-# git_test
-My First GitHub repo
+# odin_projects
+Projects from Odin Project
